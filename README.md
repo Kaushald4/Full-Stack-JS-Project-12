@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 12 [Live Link](#)
+## Project 12 [Live Link](https://live-proj-12.netlify.app)
 
 -   Skills Gained in this project
     -   Learned to create complex footer section.
